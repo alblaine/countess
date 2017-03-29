@@ -1,0 +1,25 @@
+---
+title: "Countess Demo"
+subtitle: "A slidy CSS theme for RMarkdown"
+author: https://github.com/alblaine
+output: 
+  slidy_presentation:
+    css: ['styles.css', 'https://fonts.googleapis.com/css?family=Open+Sans']
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width = 4, fig.height = 3)
+```
+
+## 1
+
+Countess:
+
+Love all, trust a few, do wrong to none.
+
+--Act I, scene i, from [*As You Like It*](http://shakespeare.mit.edu/asyoulikeit/full.html)
+
+## The End
+
+
